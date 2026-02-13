@@ -1,0 +1,7 @@
+Options -Indexes
+
+<FilesMatch "^(config|bootstrap|schema)\.">
+    Require all denied
+    Order allow,deny
+    Deny from all
+</FilesMatch>
