@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	name = willygailo01
+	email = willygailo01@users.noreply.github.com
+[remote "origin"]
+	url = https://github.com/willygailo01/Valentine-confession-wall.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
